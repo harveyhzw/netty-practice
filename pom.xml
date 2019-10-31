@@ -11,6 +11,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>echo</module>
+        <module>c4transfer</module>
     </modules>
     <properties>
         <junit.version>4.11</junit.version>
